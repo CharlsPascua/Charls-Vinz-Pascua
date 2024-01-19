@@ -1,51 +1,18 @@
-.pnk{
-    background-color: rgb(226, 178, 187);
-    border-radius: 50px;
-    padding: 10px;
+.sdf{
+    color: aquamarine;
 }
-
-.name{
-    border-style:outset;
-    border-width: medium;
-    margin-right: 50%;
-}
-
-    
 
 body{
-    background-image: linear-gradient(to left,#c5c5ff, #efdeff );
-    
+       background-color: rgb(13, 80, 148);
+
 }
 
-.qua{
-    background-color: rgb(132, 216, 231);
-    border-radius: 50px;
-    padding: 10px;
-}
-
-.laytblu{
-    background-color: rgb(174, 223, 241);
-    border-radius: 50px;
-    padding: 10px;
-}
-
-.mediyumturkoys{
-    background-color: rgb(140, 224, 222);
-    border-radius: 50px;
-    padding: 10px;
-}
-
-.box1{
-    border-style: outset;
-    border-width: large;
-    margin-right: 100px;
-}
-
-.box1{
-    border-style: outset;
-    border-width: large;
-    margin-right: 100px;
+.new{
+    font-family: Verdana;
+    text-align: center;
 }
 
 
-
+body{
+    background-image: linear-gradient(to right, rgb(255, 255, 204), rgb(204, 255, 255));
+}
